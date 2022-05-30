@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/@shivam_yogi999" target="blank"><img src="https://img.shields.io/twitter/follow/@shivam_yogi999?logo=twitter&style=for-the-badge" alt="@shivam_yogi999" /></a> </p>
 
-- 🔭 I’m currently working on **Cyber Security & Data Science Skills**
+- 🔭 I’m currently working on **Cyber Security & Data Science Skills.**
 
 - 🌱 I’m currently learning **Advanced Python & Machine Learning.**
 
-- 💬 Ask me about **cyber security, Data-science & Web-development**
+- 💬 Ask me about **cyber security, Data-science & Web-development.**
 
 - 📫 How to reach me **shivamyogi99@gmail.com**
 
-- ⚡ Fun fact **Currently doing data science but more passionate about cyber-security!.**
+- ⚡ Fun fact **Currently doing data science but more passionate about cyber-security!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

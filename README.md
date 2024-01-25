@@ -4,9 +4,10 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Competitive+Programmer;Cyber+Security;MERN+STACK+DEVELOPER;DS%20|%20Algorithms%20|%20OOPs%20;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivam-yogi&label=Profile%20views&color=0e75b6&style=flat" alt="shivam-yogi" /> </p>
+<div align="left">
+  <img src='https://img.shields.io/github/followers/shivam-yogi?logo=Github&style=for-the-badge'><a href="https://github.com/Shivam-Yogi/"><a href="https://github.com/Shivam-Yogi/"><img
+      src="https://komarev.com/ghpvc/?username=shivam-yogi&style=for-the-badge"></a>
+</div>
 
 <p align="left"> <a href="https://twitter.com/@shivam_yogi999" target="blank"><img src="https://img.shields.io/twitter/follow/@shivam_yogi999?logo=twitter&style=for-the-badge" alt="@shivam_yogi999" /></a> </p>
 

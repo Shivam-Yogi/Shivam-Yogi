@@ -31,7 +31,17 @@
 💬 Don't hesitate to ask me anything. I'm always happy to help and share knowledge. Let's connect and learn together!
 
 <br>
+  <p align="left">
+    <a href="https://github.com/Shivam-Yogi/">
+    <img width="40%" src="https://github-readme-stats.vercel.app/api?username=shivam-yogi&show_icons=true&locale=en" />
+     <img width="30.3%" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivam-yogi&show_icons=true&locale=en&layout=compact" alt="ShivamYogiTopLanguages"/>
+    </a>
+  </p>
+  <br>
+  🌍 Find me around the web:
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivam-yogi&show_icons=true&locale=en&layout=compact" alt="shivam-yogi" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivam-yogi&show_icons=true&locale=en" alt="shivam-yogi" /></p>
+<div align="left">
+<a href="https://www.linkedin.com/in/shivam-yogi/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:Shivamyogi99@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://discord.com/channels/@shivam_yogi"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
+</div>

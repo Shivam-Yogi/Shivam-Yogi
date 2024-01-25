@@ -9,7 +9,7 @@
       src="https://komarev.com/ghpvc/?username=shivam-yogi&style=for-the-badge"></a>
 </div>
 
-<img src="https://github.com/Shivam-Yogi/assets/blob/main/github.gif" alt="Interests Image" align="right" width="40%" height="40%"/>
+<img src="https://github.com/Shivam-Yogi/assets/blob/main/github.gif" alt="Interests Image" align="right" width="35%" height="30%"/>
 
 ### My Interests:
 

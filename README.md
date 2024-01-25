@@ -26,7 +26,7 @@
 
 🌱 I'm constantly learning and exploring new technologies, tools, and techniques to stay ahead in this ever-evolving field. I believe in the importance of elegant interfaces, efficient architectures, and top-notch code quality.
 
-🛠️ I also enjoy working on freelance projects. If you have any opportunities, feel free to [reach out](mailto:dipakm3702@gmail.com).
+🛠️ I also enjoy working on freelance projects. If you have any opportunities, feel free to [reach out](mailto:shivamyogi99gmail.com).
 
 💬 Don't hesitate to ask me anything. I'm always happy to help and share knowledge. Let's connect and learn together!
 

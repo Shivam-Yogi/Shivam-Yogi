@@ -15,7 +15,6 @@
 
 - Data Science & Machine Learning
 - Mern Stack Developer
-- Devops Engineer
 - Open Source Enthusiast
 
 ### Things I code with

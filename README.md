@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Shivam Yogi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<h3 align="center">A passionate Data Science Aspirant from India...</h3>
+<h3 align="center">A passionate Full Stack Developer from India...</h3>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Data+Science+Student;Competitive+Programmer;MERN+STACK+DEVELOPER;DS%20|%20Algorithms%20|%20OOPs%20;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Data+Science+Student;Competitive+Programmer;DEVOPS/+MLOPS;MERN+STACK+DEVELOPER;DS%20|%20Algorithms%20|%20OOPs%20;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 <div align="left">
   <img src='https://img.shields.io/github/followers/shivam-yogi?logo=Github&style=for-the-badge'><a href="https://github.com/Shivam-Yogi/"><a href="https://github.com/Shivam-Yogi/"><img

@@ -13,7 +13,7 @@
 
 ### My Interests:
 
-- Data Science & Machine Learning
+- MLOPS/DEVOPS
 - Mern Stack Developer
 - Open Source Enthusiast
 

@@ -29,7 +29,7 @@
 
 💬 Don't hesitate to ask me anything. I'm always happy to help and share knowledge. Let's connect and learn together!
 
-<br>
+<-- <br>
   <p align="left">
     <a href="https://github.com/Shivam-Yogi/">
     <img width="40%" src="https://github-readme-stats.vercel.app/api?username=shivam-yogi&show_icons=true&locale=en" />
@@ -37,6 +37,7 @@
     </a>
   </p>
   <br>
+  -->
   🌍 Find me around the web:
 
 <div align="left">
